@@ -1,0 +1,2 @@
+#!/bin/bash
+pdflatex letter.tex && zathura letter.pdf
